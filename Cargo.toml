@@ -1,5 +1,5 @@
 [package]
-name = "ltr390_embedded_hal"
+name = "ltr390-embedded-hal"
 version = "0.1.0"
 authors = ["EncinitasMechanic <84678085+EncinitasMechanic@users.noreply.github.com>"]
 edition = "2018"
@@ -8,4 +8,3 @@ edition = "2018"
 
 [dependencies]
 embedded-hal = "0.2.5"
-#cast = "0.2.6"
